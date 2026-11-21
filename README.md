@@ -1,2 +1,2 @@
 # gitdemo
-learning git
+learning git(hkr)
